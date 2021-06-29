@@ -1,0 +1,26 @@
+html { 
+    background: url(./bg.jpeg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+body{
+    padding-left: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 1.5rem;
+    padding-bottom: 20px;
+}
+h1,h2{
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    color: crimson;
+}
+h3{
+    color: crimson;
+}
+.tp{
+    text-align: center;
+
+}
